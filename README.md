@@ -3,7 +3,7 @@
 [![LeetCode 排名](https://img.shields.io/badge/aQuaYi-646-blue.svg)](https://leetcode.com/aQuaYi/)
 [![codecov](https://codecov.io/gh/aQuaYi/LeetCode-in-Go/branch/master/graph/badge.svg)](https://codecov.io/gh/aQuaYi/LeetCode-in-Go)
 [![Build Status](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go.svg?branch=master)](https://www.travis-ci.org/aQuaYi/LeetCode-in-Go)
- [![Go](https://img.shields.io/badge/Go-1.13-blue.svg)](https://golang.google.cn)
+[![Go](https://img.shields.io/badge/Go-1.13-blue.svg)](https://golang.google.cn)
 
 ## 进度
 
@@ -17,7 +17,7 @@
 ## 题解
 
 |题号|题目|通过率|难度|收藏|
-|:-:|:-|:-: | :-: | :-: |
+|:---:|:---:|:---:|:---:|:---:|
 |[1250](https://leetcode.com/problems/check-if-it-is-a-good-array/)| * Check If It Is a Good Array|46%|Hard||
 |[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| * Minimum Remove to Make Valid Parentheses|55%|Medium||
 |[1248](https://leetcode.com/problems/count-number-of-nice-subarrays/)| * Count Number of Nice Subarrays|50%|Medium||
